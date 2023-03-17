@@ -1,1 +1,328 @@
 Scouter Initials	Match Number	Robot	Team Number	No Show	Using Human Player	Starting Location	Mobility?	Upper Cone Scored	Middle Cone Scored	Lower Cone Scored	Upper Cube Scored	Middle Cube Scored	Lower Cube Scored	Picked up more Cube/Cone?	Docked	Engaged	Upper Cone Scored	Middle Cone Scored	Lower Cone Scored	Upper Cube Scored	Middle Cube Scored	Lower Cube Scored	Pick up Cube/Cone where	Links	Attempted before Endgame	Charge Station	# of alliance bots docked	Driver Skill	Defense Rating	Died	Tipped Over	Yellow/Red Card	Comments
+EB	1	R1	3117	false	true	right	true	0	0	1	0	0	0	true	false	false	0	0	1	1	0	0	BOTH	1	false	DOCK ENGAGE	1	2	2	false	false	false	Dropped cone once | Type QRCODE
+EB	2	R1	3181	false	true	right	true	0	0	0	0	0	0	false	false	false	1	0	0	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	1	2	2	false	false	false	Grabber broke | Type QRCODE
+EB	3	R1	1551	false	true	left	true	0	0	0	1	0	0	true	false	false	0	0	0	1	2	0	GROUND	1	false	PARKED	0	2	1	false	false	false	Slipped off charge station | Type QRCODE
+JM	1	R2	3044	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	PARKED	2	1	1	false	false	false	Robot kept getting disabled and claw did not work | Type QRCODE
+JM	2	R2	6621	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	GROUND	1	false	X	2	2	1	false	false	false	Not very fast and claw is not very reliable | Type QRCODE
+JM	3	R2	340	false	true	middle	false	0	1	0	0	0	0	false	true	true	0	2	1	0	0	0	SUBSTATION	0	false	X	0	3	1	false	false	false	Claw for cones, swerve stopped working at the end, driver lined up very well | Type QRCODE
+KT	2	R3	250	false	true	left	true	0	0	0	0	0	0	true	false	false	3	2	0	1	0	0	BOTH	0	true	DOCK ENGAGE	0	x	x	false	false	false	undefined | Type QRCODE
+KT	1	R3	1507	false	true	left	true	0	0	0	0	0	0	true	true	false	2	0	0	1	0	0	BOTH	0	true	DOCK	1	3	1	false	false	false	undefined | Type QRCODE
+KT	2	R3	271	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	3	3	false	false	false	undefined | Type QRCODE
+MM	3	B3	4027	false	true	middle	true	1	1	0	0	0	0	false	true	true	2	0	0	1	0	0	SUBSTATION	2	false	X	2	2	2	false	false	false	Robot was cool | Type QRCODE
+MM	2	B3	3015	false	false	right	true	0	1	0	0	0	0	false	true	false	2	1	0	2	1	0	SUBSTATION	2	false	DOCK ENGAGE	2	3	x	false	false	false	Justin Montois ''' | Type QRCODE
+MM	1	B3	7903	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK	0	1	1	false	false	false	This team didn't do very much at all | Type QRCODE
+MR	1	B1	3550	false	true	right	true	1	0	0	0	0	0	false	false	false	1	0	1	1	1	1	BOTH	1	false	X	0	3	1	false	false	false	The driver was absolutely amazing | Type QRCODE
+MR	2	B1	6806	false	true	left	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	2	2	false	false	false	Scored very few points, but good defense | Type QRCODE
+MR	3	B1	1126	false	true	middle	false	1	0	0	0	0	0	false	true	true	1	0	1	0	0	0	SUBSTATION	0	true	DOCK ENGAGE	2	2	2	false	false	false	undefined | Type QRCODE
+Pruji	4	R2	2791	false	true	middle	true	0	0	0	1	0	0	false	false	false	1	0	0	1	1	0	BOTH	0	true	PARKED	2	3	2	false	false	false	Did nothing  | Type QRCODE
+EB	7	R1	424	false	true	left	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	1	1	1	false	false	false	Bad grabber, no score telop | Type QRCODE
+EB	8	R1	3173	false	true	right	true	1	0	0	0	0	0	false	false	false	3	0	0	0	0	0	SUBSTATION	0	false	X	2	3	2	false	false	false	good manoverability and speek | Type QRCODE
+EB	8	R1	3838	false	true	left	true	0	0	0	1	0	0	false	false	false	0	0	0	0	0	2	GROUND	0	false	X	0	1	1	false	false	false	bad grabber and ineffective  | Type QRCODE
+MM	9	B3	1405	false	false	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	X	0	1	1	false	false	false	High-key they kinda suck they didn't do anything  | Type QRCODE
+MM	8	B3	5590	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	GROUND	3	false	X	2	1	x	false	false	false	Spent time teetering about and failing to score | Type QRCODE
+MM	7	B3	2228	false	true	right	true	0	0	0	0	0	0	false	false	false	1	0	0	1	0	0	BOTH	0	false	DOCK ENGAGE	2	2	x	false	false	false	Sponsored by GM - rich | Type QRCODE
+KT	2	R3	3951	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	X	0	false	X	0	1	x	false	false	false	Very flimsy and unstable arm driving suck  | Type QRCODE
+KT	2	R3	191	false	true	left	false	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	BOTH	0	true	DOCK ENGAGE	1	1	x	false	false	false	undefined | Type QRCODE
+KT	2	R3	8393	false	true	left	false	0	0	0	0	0	0	false	false	false	0	1	0	0	0	0	SUBSTATION	0	false	X	2	1	x	false	false	false	Arm broke  | Type QRCODE
+KT	2	R3	8393	false	true	left	false	0	0	0	0	0	0	false	false	false	1	3	0	0	1	0	X	0	false	X	2	3	x	false	false	false	Driving is good but wasn'' skilled in placing object especially when it'' trying to place it on the high  | Type QRCODE
+JM	7	R2	4150	false	true	right	true	1	0	0	0	0	0	false	false	false	1	1	0	0	0	0	GROUND	0	true	DOCK ENGAGE	2	2	1	false	false	false	Mainly uses cargo close to community until it runs out and claw is very good | Type QRCODE
+JM	8	R2	1585	false	true	right	true	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	2	2	false	false	false	Struggled to pick up game pieces and played defensively | Type QRCODE
+JM	9	R2	2340	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	1	1	true	false	false	Died immediately | Type QRCODE
+MR	7	B1	20	false	true	middle	false	1	0	0	0	0	0	false	true	true	3	0	0	1	1	0	SUBSTATION	1	true	DOCK ENGAGE	2	3	2	false	false	false	undefined | Type QRCODE
+MR	8	B1	1493	false	true	left	false	0	0	0	1	0	0	false	false	false	0	0	0	2	3	3	GROUND	0	true	DOCK ENGAGE	2	3	2	false	false	false	Threw cubes only, no arms. Cannot pick up cones | Type QRCODE
+MR	9	B1	4930	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	X	0	1	2	true	false	false	undefined | Type QRCODE
+EB	13	R1	6300	false	true	left	true	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	X	3	false	X	2	1	1	true	false	false	died lol | Type QRCODE
+EB	14	R1	191	false	true	right	false	0	0	0	0	0	1	true	true	false	0	0	0	0	0	2	GROUND	2	false	DOCK ENGAGE	1	2	1	false	false	false	undefined | Type QRCODE
+EB	15	R1	3015	false	true	left	false	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	X	2	false	X	2	1	1	true	false	false	died bruh | Type QRCODE
+KT	13	R3	378	false	true	left	false	0	0	0	0	1	0	false	false	false	0	2	0	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	0	2	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	6868	false	true	left	false	0	0	0	0	0	0	false	false	false	1	2	0	0	2	0	X	0	false	DOCK ENGAGE	0	2	x	false	false	false	 | Type QRCODE
+KT	13	R3	8393	false	true	left	false	0	0	0	0	0	0	false	false	false	0	1	0	0	2	0	X	0	false	X	0	x	x	false	false	false	 | Type QRCODE
+MR	13	B1	3181	false	true	right	false	0	0	0	0	0	0	false	false	false	1	1	2	1	1	0	SUBSTATION	1	true	DOCK ENGAGE	2	3	1	false	false	false	undefined | Type QRCODE
+MR	14	B1	271	false	true	middle	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	GROUND	0	true	DOCK ENGAGE	2	2	1	false	false	false	undefined | Type QRCODE
+MR	15	B1	1450	false	true	left	true	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	GROUND	0	true	DOCK ENGAGE	3	2	x	false	false	false	Technical difficulties, went into charging station with ~60 seconds left | Type QRCODE
+MP	1	B2	1450	false	false	left	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	X	0	true	PARKED	0	1	1	false	false	false	barely moved but auto scored cube! | Type QRCODE
+MP	2	B2	639	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	1	0	0	BOTH	1	true	X	0	2	2	false	false	false	good upper cones no cube | Type QRCODE
+MP	3	B2	120	false	true	left	false	0	0	1	0	0	0	false	false	false	0	1	1	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	1	false	false	false	not defensive but good at nid and lower cone, fast! | Type QRCODE
+MP	7	B2	1511	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	x	x	true	false	false	did not move or work, issues? no scores or docking | Type QRCODE
+MP	8	B2	7636	false	true	left	true	1	0	0	0	0	0	false	false	false	3	0	0	0	0	0	BOTH	1	true	DOCK ENGAGE	2	3	2	false	false	false	amazing cone pickup! efficient and quick maintained strong long distance movement good for cones | Type QRCODE
+MP	9	B2	5740	false	true	left	true	0	0	0	0	0	0	false	false	false	2	0	1	0	0	0	SUBSTATION	0	true	PARKED	0	3	2	false	false	false	great cone pickup! mainly upper node and dropped cone but came back by pushing it to bottom shelf | Type QRCODE
+MP	13	B2	3990	false	true	left	true	1	0	0	0	0	0	false	true	true	3	0	0	1	0	0	BOTH	2	true	DOCK ENGAGE	2	3	3	false	false	false	good cone movement!  amazing robot with stability and balance | Type QRCODE
+MP	14	B2	4093	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	1	0	0	0	SUBSTATION	0	false	X	2	2	1	false	false	false	difficult time picking cones up but managed, no cubes | Type QRCODE
+MP	15	B2	424	false	true	left	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	2	SUBSTATION	1	false	DOCK ENGAGE	3	2	2	false	false	false	no cones all lower cubes, good stability no tipping! | Type QRCODE
+JM	13	R2	3117	false	true	right	true	0	0	0	0	0	0	false	false	false	2	0	0	0	0	2	BOTH	3	false	DOCK ENGAGE	2	2	1	false	false	false	Auto is broken but can score well | Type QRCODE
+JM	14	R2	2053	false	true	left	true	1	0	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	X	2	2	1	true	false	false	Auto designed to do 2 cones, but failed, stopped working a lot | Type QRCODE
+JM	15	R2	1405	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	GROUND	1	false	DOCK ENGAGE	2	1	2	false	false	false	Auto did nothing, design definitely capable of higher shelves more often | Type QRCODE
+MR	19	B1	5740	false	true	right	true	0	0	1	0	0	0	false	false	false	2	0	0	0	0	0	BOTH	1	false	DOCK ENGAGE	2	3	x	false	false	false	undefined | Type QRCODE
+MR	20	B1	3181	false	true	middle	false	0	0	0	0	0	0	false	false	false	1	0	1	1	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	2	false	false	false	undefined | Type QRCODE
+MR	21	B1	3117	false	true	middle	false	0	0	0	0	0	0	false	false	false	2	0	0	1	0	0	SUBSTATION	0	false	DOCK	2	2	x	false	false	false	undefined | Type QRCODE
+JM	19	R2	5590	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	SUBSTATION	1	false	DOCK ENGAGE	1	2	1	false	false	false	3 robots tipped over, but this robot was not good at scoring high | Type QRCODE
+JM	20	R2	533	false	true	right	false	1	0	0	0	0	0	false	false	false	1	0	0	1	0	0	SUBSTATION	0	false	DOCK	0	3	1	false	false	false	Fast cycle time, can reliably score, but sometimes dropped the cone. | Type QRCODE
+JM	21	R2	424	false	true	right	false	0	0	0	1	0	0	false	false	false	0	0	0	0	0	2	GROUND	2	false	DOCK	2	2	1	false	false	false	Mostly scores low and teleoperador only uses cubes, failed to balance during endgame  | Type QRCODE
+MP	21	B2	2172	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	1	1	0	0	SUBSTATION	0	true	PARKED	0	2	2	false	false	false	dropped few pieces made some points auto good | Type QRCODE
+MP	20	B2	120	false	true	left	true	0	0	1	0	0	0	false	false	false	0	1	0	0	2	0	BOTH	1	true	DOCK ENGAGE	2	2	2	false	false	false	little flimsy but overall good pickup  | Type QRCODE
+MP	19	B2	8393	false	true	left	true	0	0	1	0	0	1	false	true	true	1	0	2	0	0	2	BOTH	3	true	DOCK ENGAGE	2	3	2	false	false	false	good defensive blocks, maneuver around fallen robots, mainly floor pieces!  | Type QRCODE
+TB	22	B3	1581	false	true	right	true	1	0	0	1	0	0	false	true	false	2	0	0	1	0	0	BOTH	2	true	DOCK ENGAGE	1	x	x	false	false	false	One team robot tipped over and was out for half the match and then they still won | Type QRCODE
+ST	22	R3	1493	false	true	right	true	0	0	0	1	0	0	true	false	false	0	0	0	0	1	3	SUBSTATION	3	false	DOCK	1	3	1	false	false	false	Did pretty well scored a lot of bottom cubes pretty fast | Type QRCODE
+JM	21	R2	424	false	true	right	false	0	0	0	1	0	0	false	false	false	0	0	0	0	0	2	GROUND	2	false	DOCK	2	2	1	false	false	false	Mostly scores low and teleoperador only uses cubes, failed to balance during endgame  | Type QRCODE
+JM	20	R2	533	false	true	right	false	1	0	0	0	0	0	false	false	false	1	0	0	1	0	0	SUBSTATION	0	false	DOCK	0	3	1	false	false	false	Fast cycle time, can reliably score, but sometimes dropped the cone. | Type QRCODE
+JM	19	R2	5590	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	SUBSTATION	1	false	DOCK ENGAGE	1	2	1	false	false	false	3 robots tipped over, but this robot was not good at scoring high | Type QRCODE
+MR	20	B1	3181	false	true	middle	false	0	0	0	0	0	0	false	false	false	1	0	1	1	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	2	false	false	false	undefined | Type QRCODE
+MR	19	B1	5740	false	true	right	true	0	0	1	0	0	0	false	false	false	2	0	0	0	0	0	BOTH	1	false	DOCK ENGAGE	2	3	x	false	false	false	undefined | Type QRCODE
+Ja	18	R1	639	false	false	right	false	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	1	false	X	1	x	x	true	false	false	Had to kill, not sure what happened, got stuck on nodes and something happened, sounded bad | Type QRCODE
+Pruji	11	R2	1551	false	true	middle	true	0	0	0	0	0	0	false	false	true	0	0	0	1	1	0	SUBSTATION	1	false	DOCK ENGAGE	2	x	x	false	false	false	undefined | Type QRCODE
+MR	21	B1	3117	false	true	middle	false	0	0	0	0	0	0	false	false	false	2	0	0	1	0	0	SUBSTATION	0	false	DOCK	2	2	x	false	false	false	undefined | Type QRCODE
+Ja	17	R1	250	false	false	left	true	0	0	0	0	0	0	false	true	true	1	0	2	1	0	0	SUBSTATION	3	false	DOCK ENGAGE	2	x	x	false	false	false	Good, seems shaky, has trouble putting cones on top | Type QRCODE
+Ja	16	R1	3838	false	false	right	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	X	2	false	DOCK ENGAGE	2	x	x	false	false	false	Arm would not stop shaking, looked very unstable, tried picking up from ground but couldnt | Type QRCODE
+Ja	12	R1	1518	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	2	false	DOCK ENGAGE	3	x	x	false	false	false	Danced around the middle, couldn'' move right or tried defense | Type QRCODE
+Ja	11	R1	4027	false	false	right	true	1	0	0	0	0	0	true	false	false	2	0	2	0	0	1	SUBSTATION	0	false	DOCK ENGAGE	2	3	x	false	false	false	Very efficient, pushes one and Carrie'' one at the same time | Type QRCODE
+Ja	10	R1	6806	false	false	right	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	GROUND	2	false	DOCK ENGAGE	3	x	x	false	false	false	Arm may have broke, pushed cubes and then left them on the ground, auto took long | Type QRCODE
+ST	18	R3	2228	false	true	middle	false	1	0	0	0	0	0	false	false	false	1	0	0	0	0	0	GROUND	1	false	X	1	1	1	false	false	false	Did well when starting but couldn'' pick up cones from the substations | Type QRCODE
+Pruji	18	R2	3360	false	true	right	true	0	1	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	DOCK	0	2	2	false	false	false	undefined | Type QRCODE
+TB	16	B3	578	false	true	left	true	0	0	0	0	1	0	false	false	false	1	0	1	1	0	0	BOTH	2	false	DOCK	1	x	x	false	false	false	undefined | Type QRCODE
+ST	17	R3	7636	false	true	middle	false	1	0	0	0	0	0	false	false	false	2	0	0	2	0	0	BOTH	2	false	X	2	3	x	false	false	true	Did pretty well. can score well did have a collision but was fine | Type QRCODE
+TB	16	B3	3951	false	true	right	true	0	0	1	0	0	0	false	false	false	1	0	1	1	1	1	GROUND	0	false	PARKED	2	x	x	false	false	false	undefined | Type QRCODE
+Pruji	17	R2	1511	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK ENGAGE	2	1	1	false	false	false	undefined | Type QRCODE
+TB	16	B3	1585	false	true	left	true	0	0	1	0	0	0	false	false	false	0	0	1	0	0	2	GROUND	0	false	DOCK ENGAGE	1	x	x	false	false	false	undefined | Type QRCODE
+ST	16	R3	1559	false	true	middle	true	1	0	0	0	0	0	false	false	false	0	0	0	1	0	2	GROUND	0	false	DOCK ENGAGE	1	2	x	false	false	false	Did fairly well  Cycle time can be faster | Type QRCODE
+JM	15	R2	1405	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	GROUND	1	false	DOCK ENGAGE	2	1	2	false	false	false	Auto did nothing, design definitely capable of higher shelves more often | Type QRCODE
+JM	14	R2	2053	false	true	left	true	1	0	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	X	2	2	1	true	false	false	Auto designed to do 2 cones, but failed, stopped working a lot | Type QRCODE
+JM	13	R2	3117	false	true	right	true	0	0	0	0	0	0	false	false	false	2	0	0	0	0	2	BOTH	3	false	DOCK ENGAGE	2	2	1	false	false	false	Auto is broken but can score well | Type QRCODE
+MP	15	B2	424	false	true	left	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	2	SUBSTATION	1	false	DOCK ENGAGE	3	2	2	false	false	false	no cones all lower cubes, good stability no tipping! | Type QRCODE
+MR	15	B1	1450	false	true	left	true	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	GROUND	0	true	DOCK ENGAGE	3	2	x	false	false	false	Technical difficulties, went into charging station with ~60 seconds left | Type QRCODE
+MP	14	B2	4093	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	1	0	0	0	SUBSTATION	0	false	X	2	2	1	false	false	false	difficult time picking cones up but managed, no cubes | Type QRCODE
+MR	14	B1	271	false	true	middle	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	GROUND	0	true	DOCK ENGAGE	2	2	1	false	false	false	undefined | Type QRCODE
+MP	13	B2	3990	false	true	left	true	1	0	0	0	0	0	false	true	true	3	0	0	1	0	0	BOTH	2	true	DOCK ENGAGE	2	3	3	false	false	false	good cone movement!  amazing robot with stability and balance | Type QRCODE
+ST	12	R3	3003	false	true	middle	true	1	0	0	0	0	0	false	true	false	2	0	0	1	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	x	false	false	false	Did fairly well Picking up cube can be done better | Type QRCODE
+Pruji	12	R2	3550	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	1	0	2	BOTH	0	false	DOCK	3	x	x	false	false	false	undefined | Type QRCODE
+TB	12	B3	340	false	true	left	false	0	1	0	0	0	0	false	true	false	0	3	2	0	0	0	BOTH	3	true	DOCK ENGAGE	1	x	x	false	false	false	Did not attempt upper levels | Type QRCODE
+ST	11	R3	3044	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	X	0	false	PARKED	1	1	1	false	false	false	Very bad slow driver and no picking up | Type QRCODE
+TB	11	B3	63	false	true	left	false	0	1	0	0	0	0	false	false	false	1	1	1	0	0	0	X	0	false	DOCK ENGAGE	1	x	x	false	false	false	undefined | Type QRCODE
+TB	6	B3	229	false	false	left	false	0	0	0	0	0	0	false	true	false	0	0	0	0	0	2	X	0	true	PARKED	1	x	x	false	false	false	undefined | Type QRCODE
+Pruji	10	R2	2172	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	true	DOCK ENGAGE	3	x	x	false	false	false	undefined | Type QRCODE
+ST	6	R3	1591	false	true	left	true	1	0	0	1	0	0	true	true	true	3	0	0	1	0	3	BOTH	3	true	DOCK ENGAGE	2	3	x	false	false	false	Very good probably the most effective in the match got lots of links  | Type QRCODE
+MR	9	B1	4930	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	X	0	1	2	true	false	false	undefined | Type QRCODE
+MP	9	B2	5740	false	true	left	true	0	0	0	0	0	0	false	false	false	2	0	1	0	0	0	SUBSTATION	0	true	PARKED	0	3	2	false	false	false	great cone pickup! mainly upper node and dropped cone but came back by pushing it to bottom shelf | Type QRCODE
+JM	9	R2	2340	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	1	1	true	false	false	Died immediately | Type QRCODE
+JM	8	R2	1585	false	true	right	true	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	2	2	false	false	false	Struggled to pick up game pieces and played defensively | Type QRCODE
+MP	8	B2	7636	false	true	left	true	1	0	0	0	0	0	false	false	false	3	0	0	0	0	0	BOTH	1	true	DOCK ENGAGE	2	3	2	false	false	false	amazing cone pickup! efficient and quick maintained strong long distance movement good for cones | Type QRCODE
+MR	8	B1	1493	false	true	left	false	0	0	0	1	0	0	false	false	false	0	0	0	2	3	3	GROUND	0	true	DOCK ENGAGE	2	3	2	false	false	false	Threw cubes only, no arms. Cannot pick up cones | Type QRCODE
+Pruji	4	R2	2791	false	true	middle	true	0	0	0	1	0	0	false	false	false	1	0	0	1	1	0	BOTH	0	true	PARKED	2	3	2	false	false	false	Did nothing  | Type QRCODE
+JM	7	R2	4150	false	true	right	true	1	0	0	0	0	0	false	false	false	1	1	0	0	0	0	GROUND	0	true	DOCK ENGAGE	2	2	1	false	false	false	Mainly uses cargo close to community until it runs out and claw is very good | Type QRCODE
+MR	7	B1	20	false	true	middle	false	1	0	0	0	0	0	false	true	true	3	0	0	1	1	0	SUBSTATION	1	true	DOCK ENGAGE	2	3	2	false	false	false	undefined | Type QRCODE
+MP	7	B2	1511	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	x	x	true	false	false	did not move or work, issues? no scores or docking | Type QRCODE
+Ja	6	R1	3799	false	false	right	false	0	0	0	0	0	0	false	false	false	2	0	0	1	0	0	GROUND	2	false	PARKED	0	x	1	false	false	true	Got bullied by 3600, literally the same as ours, pushed into wrong side and got penalized  | Type QRCODE
+Ja	5	R1	1559	false	false	right	false	1	0	0	0	0	0	false	false	false	1	0	0	0	1	0	GROUND	1	false	DOCK ENGAGE	1	x	x	false	false	false	Seems like they can pick up from substation, good placement | Type QRCODE
+Ja	4	R1	578	false	false	middle	true	0	0	0	0	0	0	false	true	false	0	0	0	0	0	3	SUBSTATION	0	true	DOCK ENGAGE	3	x	x	false	false	false	Very safe, seems like they can get higher placement, all wheels off charge station | Type QRCODE
+Pruji	6	R2	5528	false	true	left	true	0	0	0	1	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	X	2	x	x	true	false	false	undefined | Type QRCODE
+Pruji	6	R2	5528	false	true	left	true	0	0	0	1	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	X	2	x	x	true	false	false	undefined | Type QRCODE
+Ja	5	R1	1559	false	false	right	false	1	0	0	0	0	0	false	false	false	1	0	0	0	1	0	GROUND	1	false	DOCK ENGAGE	1	x	x	false	false	false	Seems like they can pick up from substation, good placement | Type QRCODE
+Ja	4	R1	578	false	false	middle	true	0	0	0	0	0	0	false	true	false	0	0	0	0	0	3	SUBSTATION	0	true	DOCK ENGAGE	3	x	x	false	false	false	Very safe, seems like they can get higher placement, all wheels off charge station | Type QRCODE
+TB	6	B3	6300	false	false	right	false	0	0	1	0	0	0	false	false	false	0	0	1	0	0	0	X	0	false	PARKED	1	x	3	false	false	false	undefined | Type QRCODE
+ST	6	R3	3003	false	true	middle	true	1	0	0	0	0	0	false	true	true	0	0	0	0	0	2	BOTH	2	true	X	1	2	x	false	false	false	Placement time was a bit slow  Did pretty well overall but placing cones and cubes is slow | Type QRCODE
+MR	9	B1	4930	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	X	0	1	2	true	false	false	undefined | Type QRCODE
+Pruji	4	R2	2791	false	true	middle	true	0	0	0	1	0	0	false	false	false	1	0	0	1	1	0	BOTH	0	true	PARKED	2	3	2	false	false	false	Did nothing  | Type QRCODE
+ST	5	R3	1518	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	1	false	X	2	1	1	false	false	false	Basically did not do anything  | Type QRCODE
+TB	5	B3	3360	false	false	right	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	5	GROUND	1	false	PARKED	2	x	x	false	false	false	undefined | Type QRCODE
+Pruji	3	R2	2172	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	1	1	false	false	false	Did nothing  | Type QRCODE
+TB	4	B3	4093	false	false	left	false	0	0	0	0	0	0	false	false	false	0	1	1	0	0	0	SUBSTATION	0	false	DOCK	0	x	x	false	false	false	undefined | Type QRCODE
+ST	4	R3	229	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	1	X	1	true	DOCK ENGAGE	4	2	x	false	false	false	Balanced very well. won due to 3 bots balancing in endgame  | Type QRCODE
+MM	1	B3	7903	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK	0	1	1	false	false	false	This team didn't do very much at all | Type QRCODE
+MM	2	B3	3015	false	false	right	true	0	1	0	0	0	0	false	true	false	2	1	0	2	1	0	SUBSTATION	2	false	DOCK ENGAGE	2	3	x	false	false	false	Justin Montois ''' | Type QRCODE
+MM	3	B3	4027	false	true	middle	true	1	1	0	0	0	0	false	true	true	2	0	0	1	0	0	SUBSTATION	2	false	X	2	2	2	false	false	false	Robot was cool | Type QRCODE
+MP	3	B2	120	false	true	left	false	0	0	1	0	0	0	false	false	false	0	1	1	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	1	false	false	false	not defensive but good at nid and lower cone, fast! | Type QRCODE
+MP	2	B2	639	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	1	0	0	BOTH	1	true	X	0	2	2	false	false	false	good upper cones no cube | Type QRCODE
+JM	3	R2	340	false	true	middle	false	0	1	0	0	0	0	false	true	true	0	2	1	0	0	0	SUBSTATION	0	false	X	0	3	1	false	false	false	Claw for cones, swerve stopped working at the end, driver lined up very well | Type QRCODE
+MP	1	B2	1450	false	false	left	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	X	0	true	PARKED	0	1	1	false	false	false	barely moved but auto scored cube! | Type QRCODE
+MR	1	B1	3550	false	true	right	true	1	0	0	0	0	0	false	false	false	1	0	1	1	1	1	BOTH	1	false	X	0	3	1	false	false	false	The driver was absolutely amazing | Type QRCODE
+JM	1	R2	3044	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	PARKED	2	1	1	false	false	false	Robot kept getting disabled and claw did not work | Type QRCODE
+MR	2	B1	6806	false	true	left	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	2	2	false	false	false	Scored very few points, but good defense | Type QRCODE
+JM	2	R2	6621	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	GROUND	1	false	X	2	2	1	false	false	false	Not very fast and claw is not very reliable | Type QRCODE
+MR	3	B1	1126	false	true	middle	false	1	0	0	0	0	0	false	true	true	1	0	1	0	0	0	SUBSTATION	0	true	DOCK ENGAGE	2	2	2	false	false	false	undefined | Type QRCODE
+Ja	6	R1	3799	false	false	right	false	0	0	0	0	0	0	false	false	false	2	0	0	1	0	0	GROUND	2	false	PARKED	0	x	1	false	false	true	Got bullied by 3600, literally the same as ours, pushed into wrong side and got penalized  | Type QRCODE
+MP	7	B2	1511	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	x	x	true	false	false	did not move or work, issues? no scores or docking | Type QRCODE
+MR	7	B1	20	false	true	middle	false	1	0	0	0	0	0	false	true	true	3	0	0	1	1	0	SUBSTATION	1	true	DOCK ENGAGE	2	3	2	false	false	false	undefined | Type QRCODE
+JM	7	R2	4150	false	true	right	true	1	0	0	0	0	0	false	false	false	1	1	0	0	0	0	GROUND	0	true	DOCK ENGAGE	2	2	1	false	false	false	Mainly uses cargo close to community until it runs out and claw is very good | Type QRCODE
+MR	8	B1	1493	false	true	left	false	0	0	0	1	0	0	false	false	false	0	0	0	2	3	3	GROUND	0	true	DOCK ENGAGE	2	3	2	false	false	false	Threw cubes only, no arms. Cannot pick up cones | Type QRCODE
+MP	8	B2	7636	false	true	left	true	1	0	0	0	0	0	false	false	false	3	0	0	0	0	0	BOTH	1	true	DOCK ENGAGE	2	3	2	false	false	false	amazing cone pickup! efficient and quick maintained strong long distance movement good for cones | Type QRCODE
+JM	8	R2	1585	false	true	right	true	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	2	2	false	false	false	Struggled to pick up game pieces and played defensively | Type QRCODE
+JM	9	R2	2340	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	1	1	true	false	false	Died immediately | Type QRCODE
+MP	9	B2	5740	false	true	left	true	0	0	0	0	0	0	false	false	false	2	0	1	0	0	0	SUBSTATION	0	true	PARKED	0	3	2	false	false	false	great cone pickup! mainly upper node and dropped cone but came back by pushing it to bottom shelf | Type QRCODE
+ST	6	R3	1591	false	true	left	true	1	0	0	1	0	0	true	true	true	3	0	0	1	0	3	BOTH	3	true	DOCK ENGAGE	2	3	x	false	false	false	Very good probably the most effective in the match got lots of links  | Type QRCODE
+Pruji	10	R2	2172	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	true	DOCK ENGAGE	3	x	x	false	false	false	undefined | Type QRCODE
+TB	6	B3	229	false	false	left	false	0	0	0	0	0	0	false	true	false	0	0	0	0	0	2	X	0	true	PARKED	1	x	x	false	false	false	undefined | Type QRCODE
+TB	11	B3	63	false	true	left	false	0	1	0	0	0	0	false	false	false	1	1	1	0	0	0	X	0	false	DOCK ENGAGE	1	x	x	false	false	false	undefined | Type QRCODE
+ST	11	R3	3044	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	X	0	false	PARKED	1	1	1	false	false	false	Very bad slow driver and no picking up | Type QRCODE
+TB	12	B3	340	false	true	left	false	0	1	0	0	0	0	false	true	false	0	3	2	0	0	0	BOTH	3	true	DOCK ENGAGE	1	x	x	false	false	false	Did not attempt upper levels | Type QRCODE
+Pruji	12	R2	3550	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	1	0	2	BOTH	0	false	DOCK	3	x	x	false	false	false	undefined | Type QRCODE
+ST	12	R3	3003	false	true	middle	true	1	0	0	0	0	0	false	true	false	2	0	0	1	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	x	false	false	false	Did fairly well Picking up cube can be done better | Type QRCODE
+MP	13	B2	3990	false	true	left	true	1	0	0	0	0	0	false	true	true	3	0	0	1	0	0	BOTH	2	true	DOCK ENGAGE	2	3	3	false	false	false	good cone movement!  amazing robot with stability and balance | Type QRCODE
+MR	14	B1	271	false	true	middle	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	GROUND	0	true	DOCK ENGAGE	2	2	1	false	false	false	undefined | Type QRCODE
+MP	14	B2	4093	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	1	0	0	0	SUBSTATION	0	false	X	2	2	1	false	false	false	difficult time picking cones up but managed, no cubes | Type QRCODE
+MR	15	B1	1450	false	true	left	true	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	GROUND	0	true	DOCK ENGAGE	3	2	x	false	false	false	Technical difficulties, went into charging station with ~60 seconds left | Type QRCODE
+MP	15	B2	424	false	true	left	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	2	SUBSTATION	1	false	DOCK ENGAGE	3	2	2	false	false	false	no cones all lower cubes, good stability no tipping! | Type QRCODE
+JM	13	R2	3117	false	true	right	true	0	0	0	0	0	0	false	false	false	2	0	0	0	0	2	BOTH	3	false	DOCK ENGAGE	2	2	1	false	false	false	Auto is broken but can score well | Type QRCODE
+JM	14	R2	2053	false	true	left	true	1	0	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	X	2	2	1	true	false	false	Auto designed to do 2 cones, but failed, stopped working a lot | Type QRCODE
+JM	15	R2	1405	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	GROUND	1	false	DOCK ENGAGE	2	1	2	false	false	false	Auto did nothing, design definitely capable of higher shelves more often | Type QRCODE
+ST	16	R3	1559	false	true	middle	true	1	0	0	0	0	0	false	false	false	0	0	0	1	0	2	GROUND	0	false	DOCK ENGAGE	1	2	x	false	false	false	Did fairly well  Cycle time can be faster | Type QRCODE
+TB	16	B3	1585	false	true	left	true	0	0	1	0	0	0	false	false	false	0	0	1	0	0	2	GROUND	0	false	DOCK ENGAGE	1	x	x	false	false	false	undefined | Type QRCODE
+Pruji	17	R2	1511	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK ENGAGE	2	1	1	false	false	false	undefined | Type QRCODE
+TB	16	B3	3951	false	true	right	true	0	0	1	0	0	0	false	false	false	1	0	1	1	1	1	GROUND	0	false	PARKED	2	x	x	false	false	false	undefined | Type QRCODE
+ST	17	R3	7636	false	true	middle	false	1	0	0	0	0	0	false	false	false	2	0	0	2	0	0	BOTH	2	false	X	2	3	x	false	false	true	Did pretty well. can score well did have a collision but was fine | Type QRCODE
+TB	16	B3	578	false	true	left	true	0	0	0	0	1	0	false	false	false	1	0	1	1	0	0	BOTH	2	false	DOCK	1	x	x	false	false	false	undefined | Type QRCODE
+Pruji	18	R2	3360	false	true	right	true	0	1	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	DOCK	0	2	2	false	false	false	undefined | Type QRCODE
+ST	18	R3	2228	false	true	middle	false	1	0	0	0	0	0	false	false	false	1	0	0	0	0	0	GROUND	1	false	X	1	1	1	false	false	false	Did well when starting but couldn'' pick up cones from the substations | Type QRCODE
+Ja	10	R1	6806	false	false	right	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	GROUND	2	false	DOCK ENGAGE	3	x	x	false	false	false	Arm may have broke, pushed cubes and then left them on the ground, auto took long | Type QRCODE
+Ja	11	R1	4027	false	false	right	true	1	0	0	0	0	0	true	false	false	2	0	2	0	0	1	SUBSTATION	0	false	DOCK ENGAGE	2	3	x	false	false	false	Very efficient, pushes one and Carrie'' one at the same time | Type QRCODE
+Ja	12	R1	1518	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	2	false	DOCK ENGAGE	3	x	x	false	false	false	Danced around the middle, couldn'' move right or tried defense | Type QRCODE
+Ja	16	R1	3838	false	false	right	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	X	2	false	DOCK ENGAGE	2	x	x	false	false	false	Arm would not stop shaking, looked very unstable, tried picking up from ground but couldnt | Type QRCODE
+Ja	17	R1	250	false	false	left	true	0	0	0	0	0	0	false	true	true	1	0	2	1	0	0	SUBSTATION	3	false	DOCK ENGAGE	2	x	x	false	false	false	Good, seems shaky, has trouble putting cones on top | Type QRCODE
+Ja	18	R1	639	false	false	right	false	0	1	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	1	false	X	1	x	x	true	false	false	Had to kill, not sure what happened, got stuck on nodes and something happened, sounded bad | Type QRCODE
+MR	19	B1	5740	false	true	right	true	0	0	1	0	0	0	false	false	false	2	0	0	0	0	0	BOTH	1	false	DOCK ENGAGE	2	3	x	false	false	false	undefined | Type QRCODE
+MR	20	B1	3181	false	true	middle	false	0	0	0	0	0	0	false	false	false	1	0	1	1	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	2	false	false	false	undefined | Type QRCODE
+MR	21	B1	3117	false	true	middle	false	0	0	0	0	0	0	false	false	false	2	0	0	1	0	0	SUBSTATION	0	false	DOCK	2	2	x	false	false	false	undefined | Type QRCODE
+Pruji	11	R2	1551	false	true	middle	true	0	0	0	0	0	0	false	false	true	0	0	0	1	1	0	SUBSTATION	1	false	DOCK ENGAGE	2	x	x	false	false	false	undefined | Type QRCODE
+JM	19	R2	5590	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	SUBSTATION	1	false	DOCK ENGAGE	1	2	1	false	false	false	3 robots tipped over, but this robot was not good at scoring high | Type QRCODE
+JM	20	R2	533	false	true	right	false	1	0	0	0	0	0	false	false	false	1	0	0	1	0	0	SUBSTATION	0	false	DOCK	0	3	1	false	false	false	Fast cycle time, can reliably score, but sometimes dropped the cone. | Type QRCODE
+JM	21	R2	424	false	true	right	false	0	0	0	1	0	0	false	false	false	0	0	0	0	0	2	GROUND	2	false	DOCK	2	2	1	false	false	false	Mostly scores low and teleoperador only uses cubes, failed to balance during endgame  | Type QRCODE
+ST	22	R3	1493	false	true	right	true	0	0	0	1	0	0	true	false	false	0	0	0	0	1	3	SUBSTATION	3	false	DOCK	1	3	1	false	false	false	Did pretty well scored a lot of bottom cubes pretty fast | Type QRCODE
+TB	22	B3	1581	false	true	right	true	1	0	0	1	0	0	false	true	false	2	0	0	1	0	0	BOTH	2	true	DOCK ENGAGE	1	x	x	false	false	false	One team robot tipped over and was out for half the match and then they still won | Type QRCODE
+PP	23	R2	3838	false	true	right	false	0	0	1	0	0	0	false	false	false	0	0	0	0	0	1	SUBSTATION	3	false	PARKED	2	1	2	false	false	false	Struggled to collect the cube from the sub station  | Type QRCODE
+Ja	22	R1	3015	false	false	left	true	0	1	0	0	0	0	false	false	false	2	2	0	0	1	0	SUBSTATION	0	false	PARKED	2	x	x	false	false	false	Very good, clean upped the bottom things | Type QRCODE
+Ja	23	R1	1585	false	false	right	true	0	0	0	0	0	1	false	false	false	0	0	1	0	0	2	GROUND	0	false	DOCK ENGAGE	2	x	x	false	false	false	Very basic, idk if it can score higher | Type QRCODE
+Ja	24	R1	340	false	false	left	true	0	1	0	0	0	0	false	false	false	2	0	0	0	0	0	GROUND	0	false	DOCK ENGAGE	2	x	x	false	false	false	Pretty good, has to manually spin cone in robot to grab but can pick up in any orientation, seems very manual | Type QRCODE
+TB	24	B3	639	false	true	left	false	1	0	0	0	0	0	false	false	false	1	0	0	0	0	1	SUBSTATION	0	false	PARKED	2	x	x	false	false	false	undefined | Type QRCODE
+JM	25	R2	5590	false	true	right	true	0	0	0	0	0	1	false	false	false	0	0	0	0	0	2	GROUND	0	false	X	2	1	1	false	false	false	Driver put 2 cubes in same slot, and it is hard to move them. | Type QRCODE
+MR	25	B1	6806	false	true	left	false	0	0	0	0	1	0	false	false	false	0	0	0	1	0	0	X	1	true	DOCK ENGAGE	2	2	x	false	false	false	A bit slow, especially during auto, but pretty good | Type QRCODE
+MR	26	B1	2791	false	true	left	true	0	0	0	1	0	0	false	false	false	1	0	0	2	0	0	BOTH	0	false	DOCK ENGAGE	2	3	3	false	false	false	undefined | Type QRCODE
+MR	27	B1	3044	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	X	0	false	PARKED	2	2	3	false	false	false	undefined | Type QRCODE
+MP	25	B2	378	false	true	left	true	1	0	0	0	0	0	false	false	true	1	0	0	0	0	0	SUBSTATION	0	true	DOCK ENGAGE	2	2	1	false	false	false	dropped 1 cone, auto was good and coordinated and fairly good | Type QRCODE
+074533 | Type I25
+MP	27	B2	2340	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	1	0	0	0	X	0	true	DOCK ENGAGE	2	2	3	false	false	false	more if a defence robot, not offensive or very good at picking up | Type QRCODE
+JM	26	R2	1507	false	true	middle	true	0	0	0	1	0	0	false	true	false	0	0	0	2	3	0	GROUND	3	false	DOCK ENGAGE	2	3	2	false	false	false	Very reliable shooter, only missed one cube. Good accuracy and can shoot cubes anywhere | Type QRCODE
+JM	27	R2	3003	false	true	middle	true	1	0	0	0	0	0	false	true	false	1	0	2	1	0	0	BOTH	2	false	DOCK ENGAGE	2	3	1	false	false	false	Can move fast and score high, but slow cycle time | Type QRCODE
+MM	27	B3	4930	false	false	left	false	0	0	0	0	0	0	false	false	false	0	0	1	0	0	2	GROUND	0	false	DOCK ENGAGE	2	2	2	false	false	false	Pretty meh | Type QRCODE
+MM	25	B3	3173	false	false	right	true	1	0	0	0	0	0	false	true	true	2	1	0	0	0	0	SUBSTATION	0	false	X	2	3	x	false	false	false	This team goes hard  | Type QRCODE
+MM	25	B3	3360	false	false	right	true	0	0	0	0	0	0	false	false	false	0	0	0	1	0	1	BOTH	0	false	X	2	3	x	false	false	false	May be slightly inaccurate  | Type QRCODE
+MM	20	B3	7903	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	X	2	x	x	false	true	false	Hard to watch this one, might be inaccurate  | Type QRCODE
+MM	19	B3	3990	false	false	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	X	2	1	1	false	true	false	 | Type QRCODE
+EB	19	R1	1126	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	1	false	X	1	1	1	false	true	false	Flipped over  | Type QRCODE
+EB	20	R1	4150	false	true	middle	true	2	0	0	1	1	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	DOCK	1	2	2	false	false	false	undefined | Type QRCODE
+EB	21	R1	6868	false	true	middle	true	0	0	0	0	1	0	false	true	false	2	0	0	1	0	0	BOTH	0	false	PARKED	0	2	1	false	false	false	Almost tpiied over | Type QRCODE
+EB	25	R1	1511	false	true	left	false	0	0	0	0	0	0	false	false	false	1	0	0	0	1	0	BOTH	2	true	DOCK ENGAGE	1	3	1	false	false	false	 | Type QRCODE
+EB	26	R1	4093	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	1	0	0	0	X	3	false	X	2	2	3	false	false	false	undefined | Type QRCODE
+EB	27	R1	229	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	2	2	3	false	false	false	No grabber | Type QRCODE
+KT	13	R3	1559	false	true	left	false	1	0	0	0	0	0	false	false	false	1	0	2	2	0	0	X	0	false	DOCK ENGAGE	0	x	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	250	false	true	left	false	0	0	0	0	0	0	false	false	false	4	3	0	0	0	0	X	0	false	DOCK ENGAGE	0	x	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	1405	false	true	left	false	0	0	0	0	0	0	false	true	false	0	0	0	0	0	5	X	0	false	DOCK ENGAGE	1	3	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	1551	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	1	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	3799	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	0	GROUND	0	false	DOCK	0	x	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	6621	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	x	x	false	true	false	undefined | Type QRCODE
+MP	33	B2	3173	false	true	left	true	1	0	0	0	0	0	false	false	true	1	0	0	0	0	2	BOTH	2	true	DOCK ENGAGE	2	3	3	false	false	false	angry good defense, smashed cone at one point but got some points | Type QRCODE
+MP	32	B2	1585	false	true	left	true	0	0	1	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	X	2	2	2	false	false	false	good got low points and only worked for cubes | Type QRCODE
+MP	31	B2	533	false	true	left	true	1	0	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	true	DOCK ENGAGE	2	1	1	false	false	false	not very efficient and unstable. managed to balance which was good! | Type QRCODE
+MR	31	B1	1511	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	1	SUBSTATION	0	true	DOCK ENGAGE	0	2	x	false	false	false	undefined | Type QRCODE
+MR	32	B1	2228	false	true	middle	true	0	0	1	0	0	0	false	false	false	1	0	1	0	0	0	BOTH	0	false	DOCK ENGAGE	2	2	1	false	false	false	undefined | Type QRCODE
+MR	33	B1	7903	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	0	false	X	2	2	x	false	false	false	The intake broke | Type QRCODE
+MM	33	B3	662	false	true	middle	true	0	0	0	0	0	1	false	false	false	1	0	0	1	0	0	BOTH	2	false	DOCK ENGAGE	2	1	2	false	false	false	Spent 5 minutes grabbing cone ''''''' | Type QRCODE
+MM	32	B3	5590	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	4	GROUND	0	false	DOCK ENGAGE	2	2	2	false	false	false	I think it only does lower? | Type QRCODE
+MM	31	B3	3838	false	true	right	true	0	0	0	1	0	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	DOCK ENGAGE	2	1	1	false	false	false	Like really badly teeters | Type QRCODE
+KT	13	R3	2340	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	2	0	GROUND	0	false	X	0	x	x	false	false	false	undefined | Type QRCODE
+KT	13	R3	3550	false	true	left	false	0	0	0	0	0	0	false	false	false	0	2	0	1	1	0	X	0	false	X	0	x	x	false	false	false	undefined | Type QRCODE
+JM	31	R2	6868	false	true	right	true	0	0	0	0	0	1	false	false	false	0	0	0	0	0	2	GROUND	4	false	X	1	2	2	false	false	false	Driver was good at lining up, not at moving fast and fell off charge station | Type QRCODE
+JM	32	R2	4093	false	true	right	true	0	0	0	0	0	0	false	false	false	0	1	1	0	0	0	GROUND	0	false	X	0	2	3	false	false	false	Completely denied a blue robot access to loading, but having a game piece slows them down a lot and placing is unreliable | Type QRCODE
+JM	33	R2	6300	false	true	right	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	GROUND	0	false	X	1	x	x	true	false	false	Hit charge station and any bump disables the bot. Died about 0:45 | Type QRCODE
+PP	34	R2	4930	false	true	left	false	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	BOTH	2	false	DOCK	0	1	2	false	false	false	Bad controlling  | Type QRCODE
+TB	34	B3	5528	false	true	left	true	0	0	0	0	0	0	false	false	false	1	0	0	0	0	1	SUBSTATION	0	false	PARKED	2	x	x	false	false	false	undefined | Type QRCODE
+ST	34	R3	378	false	true	left	true	0	0	1	0	0	0	false	false	false	2	0	0	1	0	0	SUBSTATION	2	false	X	1	2	x	false	false	false	Did nicely for cones and cubes  | Type QRCODE
+JLE	33	R1	3003	false	true	middle	false	1	0	0	0	0	0	false	false	false	1	0	0	1	0	0	SUBSTATION	1	false	DOCK	0	2	x	false	false	false	Had trouble lining up placing the piece onto the grid. | Type QRCODE
+Ja	33	R3	2340	false	false	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	1	false	PARKED	0	1	x	false	false	false	Didn'' do anything, arm didn'' move, no auto | Type QRCODE
+Ja	32	R1	1405	false	false	middle	false	0	0	0	0	0	1	false	false	true	0	0	0	0	0	2	GROUND	2	false	DOCK ENGAGE	2	x	x	false	false	false	Intake is interesting, I think it broke in the middle because it held a cube for like a minute | Type QRCODE
+Ja	36	R3	2791	false	false	middle	false	0	0	0	1	0	0	false	false	false	1	1	0	0	2	0	GROUND	1	false	DOCK ENGAGE	3	3	x	false	false	false	Really good, auto got stuck on charge station, very efficient | Type QRCODE
+Ja	35	R3	1450	false	false	middle	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	3	GROUND	0	false	DOCK ENGAGE	1	x	x	false	false	false	Popped cube, only took from slide, not good | Type QRCODE
+Ja	34	R3	1507	false	true	middle	true	0	0	0	0	0	0	false	false	true	3	0	1	1	0	0	GROUND	2	false	PARKED	1	3	x	false	false	false	Efficient, only did from slide, shoots to highest and seems consistent with it  | Type QRCODE
+MM	39	B3	7903	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	1	X	1	false	X	2	1	1	false	false	false	Didn't even try to pick anything up, most of the game was spent doing nothing | Type QRCODE
+MM	38	B3	120	false	true	left	true	0	0	1	0	0	0	false	false	false	0	0	0	0	1	0	GROUND	1	false	DOCK ENGAGE	2	1	3	false	false	false	Had a mechanical issue and was unable to pick up any more game pieces  | Type QRCODE
+MR	37	B1	3044	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	x	1	false	false	false	undefined | Type QRCODE
+MR	38	B1	639	false	true	right	false	1	0	0	0	0	0	false	false	false	1	0	0	0	0	0	SUBSTATION	1	false	X	0	2	1	false	false	false	undefined | Type QRCODE
+MR	39	B1	3015	false	true	right	true	0	2	0	0	0	0	true	false	false	3	0	0	3	1	0	BOTH	4	false	DOCK ENGAGE	2	3	x	false	false	false	undefined | Type QRCODE
+JM	37	R2	271	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	GROUND	1	false	DOCK ENGAGE	2	2	1	false	false	false	Very small robot, can only score low, inexperienced human player did not load the cargo | Type QRCODE
+JM	38	R2	1405	false	true	left	true	0	0	0	0	0	1	false	false	false	1	0	1	0	0	0	BOTH	1	false	DOCK ENGAGE	2	2	2	false	false	false	Team 120 easily defended them, 1405 has high speed but limited maneuverability. Intake is not the best for cones | Type QRCODE
+JM	39	R2	6868	false	true	middle	true	0	0	0	0	0	1	false	true	false	2	0	0	2	0	0	BOTH	0	false	DOCK	1	2	1	false	false	false	Played offensively, consistent scoring and a versatile grabber | Type QRCODE
+Ry	37	R3	578	false	false	right	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	X	0	true	DOCK ENGAGE	2	x	x	false	false	false	Cone got stuck in the robot at the beginning so it couldn'' pick up another piece | Type QRCODE
+Ry	38	R3	20	false	true	right	true	1	0	0	0	0	0	false	false	false	2	0	0	1	0	0	X	1	false	DOCK ENGAGE	2	x	x	false	false	false	Was in combat with enemy robots several times | Type QRCODE
+Ry	39	R3	63	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	0	0	0	BOTH	1	false	DOCK	0	x	x	false	false	false	Dropped most of the cones it tried to pick up | Type QRCODE
+PS	4	B1	63	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	1	0	0	2	GROUND	0	false	DOCK	2	1	x	false	false	false	63'' arm did not work this match. They pushed 2 elements into an already filled node | Type QRCODE
+PS	5	B1	533	false	true	middle	false	1	0	0	0	0	0	false	false	false	0	0	0	1	0	0	SUBSTATION	1	false	DOCK ENGAGE	2	x	x	false	false	false	undefined | Type QRCODE
+PS	6	B1	6868	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	BOTH	2	false	DOCK	2	3	x	false	false	false	Seemed unable to pick up cones | Type QRCODE
+PS	10	B1	1126	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	GROUND	0	true	DOCK ENGAGE	1	2	x	false	false	false	Only pushed cubes | Type QRCODE
+PS	11	B1	6621	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	0	0	0	X	3	false	X	2	2	1	false	false	false	Was difficult to see robot, details may be inaccurate | Type QRCODE
+PS	12	B1	120	false	true	left	true	0	0	1	0	0	0	false	false	false	0	2	0	0	1	0	BOTH	3	false	DOCK ENGAGE	2	2	x	false	false	false	I would recommend this team for their consistency in scoring, though slow | Type QRCODE
+PS	17	B1	4930	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	1	false	DOCK ENGAGE	2	x	x	false	false	false	undefined | Type QRCODE
+PS	18	B1	3173	false	true	left	true	1	0	0	0	0	0	false	true	true	3	0	0	1	0	0	SUBSTATION	2	false	X	1	3	x	false	false	false	undefined | Type QRCODE
+PS	22	B1	3550	false	false	right	true	1	0	0	0	0	0	false	false	false	2	0	0	0	1	0	X	0	false	X	2	2	x	false	true	false	Was quite efficient when active | Type QRCODE
+PS	23	B1	63	false	true	left	true	1	0	0	0	0	0	false	false	false	1	1	0	0	0	0	X	0	false	DOCK ENGAGE	2	2	x	false	true	false	 | Type QRCODE
+PS	28	B1	1518	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	1	1	0	GROUND	0	false	X	2	1	x	false	false	false	undefined | Type QRCODE
+PS	24	B1	3951	false	true	left	true	0	0	0	0	0	1	false	false	false	0	0	0	1	0	1	BOTH	0	false	DOCK ENGAGE	2	2	x	false	false	false	undefined | Type QRCODE
+PS	29	B1	2053	false	true	right	true	1	0	0	0	0	0	false	false	false	0	1	0	1	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	2	x	false	false	false	undefined | Type QRCODE
+PS	30	B1	639	false	true	left	false	1	0	0	0	0	0	false	false	false	0	0	0	0	0	1	SUBSTATION	3	false	X	2	1	x	false	false	false	undefined | Type QRCODE
+PS	34	B1	3181	false	true	left	true	0	0	0	0	0	1	false	false	false	1	0	0	0	0	2	BOTH	0	false	DOCK ENGAGE	2	3	2	false	false	false	Go 3181! | Type QRCODE
+PS	35	B1	250	false	true	left	true	0	0	0	0	0	0	false	false	false	2	2	1	0	0	0	SUBSTATION	4	false	PARKED	2	3	x	false	false	false	250 seems to be very effective | Type QRCODE
+KT	465876	R3	20	false	true	left	false	0	0	0	0	0	0	false	true	false	2	0	0	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	0	2	x	false	false	false	undefined | Type QRCODE
+PS	36	B1	7636	false	true	left	false	1	0	0	0	0	0	false	false	false	1	0	1	1	0	0	X	2	false	DOCK ENGAGE	1	2	x	false	false	false	undefined | Type QRCODE
+KT	578	R3	2340	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK	0	x	x	false	false	false	undefined | Type QRCODE
+ST	40	R3	1126	false	true	left	true	0	0	0	0	0	0	false	false	false	0	1	0	0	0	0	SUBSTATION	3	false	X	1	2	1	false	false	false	The robot was very slow and the claw was not good  | Type QRCODE
+TB	40	B3	3838	false	true	right	true	0	0	0	1	0	0	false	false	false	0	0	0	2	0	0	GROUND	1	false	DOCK ENGAGE	1	x	x	false	false	false	undefined | Type QRCODE
+MM	45	B3	271	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	1	GROUND	2	true	DOCK	2	1	1	false	false	false	Do they do anything but lower? | Type QRCODE
+MM	44	B3	6300	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	GROUND	2	true	DOCK ENGAGE	2	1	1	false	false	false	I watched it try and fail to pick up a game piece for half the match it was pretty pathetic | Type QRCODE
+MM	43	B3	1507	false	true	middle	true	1	0	0	0	0	0	false	true	true	1	0	1	0	0	0	BOTH	1	false	DOCK ENGAGE	2	2	1	false	false	false	Has trouble aiming cones but pretty good robot overall | Type QRCODE
+MR	43	B1	3360	false	true	left	false	0	1	0	0	0	0	false	false	false	0	0	0	0	1	3	GROUND	0	false	X	2	3	2	false	false	false	undefined | Type QRCODE
+MR	44	B1	1585	false	true	left	true	0	0	1	0	0	0	false	false	false	0	0	2	0	0	2	GROUND	0	false	DOCK ENGAGE	2	2	1	false	false	false	undefined | Type QRCODE
+MR	45	B1	3951	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	2	0	1	GROUND	0	false	X	0	1	1	false	false	false	The intake didn'' work very well | Type QRCODE
+MP	45	B2	1559	false	true	left	true	1	0	0	0	0	0	false	false	false	1	0	0	2	0	0	X	1	false	PARKED	0	3	1	false	false	false	good with cones and can push and pick up items! bad at balance | Type QRCODE
+MP	44	B2	1518	false	true	left	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	1	X	0	true	X	0	1	1	false	false	false	got 1 point and had very jerkish movement, circled a little | Type QRCODE
+MP	43	B2	3181	false	true	left	true	0	0	0	1	0	0	false	false	false	3	0	0	0	0	0	BOTH	1	true	DOCK ENGAGE	2	3	2	false	false	false	YASSSSSS so many cone pickups and good movement! speed! | Type QRCODE
+JM	43	R2	229	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	X	0	2	3	true	false	false	No grabber, tank drive. Played defense well but could not stop swerve and eventually died | Type QRCODE
+JM	44	R2	3044	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	1	0	X	0	false	X	0	1	1	false	false	false	Got disabled 3 times after hitting a wall and chassis is bent | Type QRCODE
+JM	45	R2	1450	false	true	right	true	0	0	0	0	1	0	false	false	false	0	0	0	0	0	3	BOTH	0	false	PARKED	0	2	1	false	false	false	Screw drive arm, slow cycle time and gripper let go often. Mostly scored low | Type QRCODE
+ST	45	R3	3173	false	true	left	true	1	0	0	0	0	0	false	true	true	3	0	0	1	0	0	SUBSTATION	2	false	DOCK	0	3	x	false	false	false	The driver was very good and they can score both cones and cubes nicely on high nodes  | Type QRCODE
+ST	44	R3	2791	false	true	middle	true	0	0	0	1	0	0	false	false	false	1	0	0	2	1	1	GROUND	2	false	X	0	3	x	false	false	false	Did very well with cubes  Scored cones well as well | Type QRCODE
+ST	43	R3	5740	false	true	left	true	0	0	0	0	0	0	false	false	false	2	0	1	1	0	0	BOTH	2	false	DOCK ENGAGE	1	2	x	false	false	false	Pretty good at cone placement on high nodes  | Type QRCODE
+TB	42	B3	6806	false	true	left	false	0	0	0	0	1	0	false	false	false	0	0	0	1	0	1	SUBSTATION	0	false	DOCK	1	x	x	false	false	false	undefined | Type QRCODE
+ST	42	R3	3550	false	true	left	true	1	0	0	0	0	0	false	false	false	1	2	0	0	0	0	BOTH	3	false	DOCK ENGAGE	1	3	x	false	false	false	Driver pretty well  Nice and stable cone deposit  | Type QRCODE
+PP	42	R2	8393	false	true	middle	true	0	1	0	0	0	0	false	false	true	1	1	0	0	0	0	SUBSTATION	3	false	DOCK ENGAGE	1	3	3	false	false	false	undefined | Type QRCODE
+PP	41	R2	1591	false	true	right	true	1	0	0	1	0	0	true	false	true	3	0	0	1	1	0	BOTH	0	false	PARKED	2	3	3	false	false	false	Very good driver. Mostly focused on cubes. Easily picked up from the ground and the sub station.  | Type QRCODE
+ST	41	R3	4093	false	true	middle	false	0	0	0	0	0	0	false	false	false	0	1	0	0	0	0	X	4	false	X	0	1	1	false	false	false	The bot was very slow and basically did nothing the other two carried  | Type QRCODE
+TB	41	B3	3117	false	true	left	false	0	0	0	1	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	DOCK ENGAGE	2	x	x	false	false	false	undefined | Type QRCODE
+MP	39	B2	2228	false	true	left	true	1	0	0	0	0	0	false	false	false	2	0	0	0	0	0	BOTH	3	true	DOCK ENGAGE	2	3	2	false	false	false	not defensive but good cone work! | Type QRCODE
+Ja	46	R1	6621	false	true	left	false	0	0	1	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	PARKED	2	x	x	false	false	false	Did absolutely nothing, arm broke? | Type QRCODE
+Ja	47	R1	5590	false	false	right	true	0	0	0	0	0	1	false	false	false	0	0	0	0	0	0	GROUND	0	false	PARKED	1	x	x	false	false	false	Auto was good, didnt do anything after, arm may have broke, pushed into enemy community, drive may have broke | Type QRCODE
+Ja	48	R1	63	false	false	left	true	0	0	1	0	0	0	false	false	false	2	0	0	0	0	0	BOTH	0	false	PARKED	0	x	x	false	false	false	Slow and steady, not bad | Type QRCODE
+Ja	52	R1	2791	false	false	left	true	0	0	0	1	0	0	false	false	true	2	1	0	1	0	0	BOTH	3	false	DOCK ENGAGE	2	3	x	false	false	false	Very good, almost tipped | Type QRCODE
+JM	49	R2	3015	false	true	left	true	0	1	0	0	0	0	false	false	false	2	2	0	0	1	1	BOTH	0	false	DOCK ENGAGE	2	3	1	false	false	false	Very fast, can place cones and cubes with a fast cycle time. Auto is programmed for 3 additional cargo | Type QRCODE
+JM	50	R2	6806	false	true	middle	false	0	0	0	1	0	0	false	false	false	0	0	0	1	0	0	SUBSTATION	0	false	X	2	1	1	false	false	false	Can only pick up from shelf, arm is slower with very limited angles | Type QRCODE
+JM	51	R2	3951	false	true	middle	false	0	0	0	0	0	0	false	true	true	0	0	0	0	1	1	GROUND	1	false	DOCK ENGAGE	2	1	1	false	false	false	Grabber does not work well, not very fast | Type QRCODE
+ST	52	R3	3181	false	true	left	true	0	0	0	1	0	0	false	false	false	2	2	0	0	0	0	SUBSTATION	3	false	DOCK ENGAGE	1	3	3	false	false	false	Excellent  | Type QRCODE
+MR	51	B1	229	false	false	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK ENGAGE	3	2	3	false	false	false	undefined | Type QRCODE
+MR	50	B1	2340	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	SUBSTATION	0	false	DOCK	2	2	x	false	false	false	undefined | Type QRCODE
+MR	49	B1	1507	false	true	right	true	0	0	0	1	0	1	true	false	false	0	0	0	0	0	0	BOTH	0	false	DOCK ENGAGE	2	2	1	false	false	false	undefined | Type QRCODE
+ST	48	R3	2053	false	true	right	true	1	0	0	0	0	0	true	false	false	1	0	1	1	0	0	BOTH	2	false	X	0	2	x	false	false	false	Did pretty well Scored to nodes  | Type QRCODE
+PP	48	R2	250	false	true	middle	false	0	0	0	0	0	0	false	false	false	2	0	0	0	0	0	GROUND	2	false	DOCK	1	x	3	false	false	false	Very good driving and defense.  | Type QRCODE
+TB	48	B3	5528	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	1	0	2	X	0	false	DOCK ENGAGE	1	x	x	false	false	false	undefined | Type QRCODE
+ST	47	R3	4027	false	true	middle	true	1	0	0	0	0	0	false	true	true	1	0	0	3	0	0	X	1	false	DOCK ENGAGE	0	3	x	false	false	false	Did very well  Very nice placement on both cube and cones  Stable performance  Good driver | Type QRCODE
+PP	47	R2	639	false	true	right	false	1	0	0	0	0	0	false	false	false	2	0	0	0	0	0	X	0	false	X	0	x	x	false	true	false	Didn't has enough stability to balance during engaging  | Type QRCODE
+PP	46	R2	3799	false	true	left	true	0	0	0	0	1	0	false	false	false	0	0	0	1	1	0	X	0	false	DOCK ENGAGE	1	2	1	false	false	false	Struggled a lot during teleop.  | Type QRCODE
+ST	46	R3	424	false	true	middle	false	0	0	0	1	0	0	false	false	false	1	0	0	1	1	0	BOTH	0	false	DOCK ENGAGE	1	2	x	false	false	false	Did fairly well  good claw  | Type QRCODE
+MR	55	B1	5740	false	true	right	true	0	0	1	0	0	0	false	false	false	5	0	0	0	0	0	BOTH	0	false	DOCK ENGAGE	2	3	2	false	false	false	undefined | Type QRCODE
+MR	56	B1	1551	false	true	middle	false	0	0	0	1	0	0	false	true	true	0	0	0	0	0	3	BOTH	0	false	DOCK ENGAGE	2	2	2	false	false	false	undefined | Type QRCODE
+MR	57	B1	6300	false	true	right	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK ENGAGE	2	2	3	false	false	false	undefined | Type QRCODE
+JM	55	R2	3173	false	true	left	true	1	0	0	0	0	0	false	true	true	1	0	1	1	0	0	SUBSTATION	1	false	DOCK	1	2	1	false	false	false	Very fast, offensive robot, excellent auto. Mainly aimed at scoring high | Type QRCODE
+JM	56	R2	6806	false	true	right	false	0	0	0	0	1	0	false	false	false	0	0	0	0	0	0	X	0	false	DOCK ENGAGE	3	3	1	false	false	false	1493 shoots from across the field, 6806 pushes them in, helped 1493 onto charge station | Type QRCODE
+JM	57	R2	63	false	true	left	true	0	0	1	0	0	0	false	false	false	2	0	0	0	0	0	BOTH	1	false	DOCK ENGAGE	2	2	1	false	false	false	Needed signaling from human player but the claw works really well | Type QRCODE
+KT	666698	R3	2340	false	true	left	false	0	0	0	0	0	0	false	false	false	0	1	0	1	0	0	X	0	false	DOCK ENGAGE	0	x	x	false	false	false	undefined | Type QRCODE
+KT	666698	R3	533	false	true	left	false	0	0	0	0	0	0	false	false	false	0	1	0	1	1	0	X	0	false	X	0	x	x	false	false	false	undefined | Type QRCODE
+KT	666698	R3	3044	false	true	left	false	0	0	0	0	0	0	false	false	false	3	0	0	0	0	0	SUBSTATION	0	false	X	0	x	x	false	false	false	undefined | Type QRCODE
+KT	666698	R3	191	false	true	left	false	0	0	0	0	0	0	false	false	false	0	2	2	0	0	0	X	0	false	X	0	x	x	false	false	false	undefined | Type QRCODE
+KT	666698	R3	1585	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	1	0	0	1	X	0	false	X	0	x	x	false	false	false	undefined | Type QRCODE
+KT	666698	R3	4930	false	true	left	false	0	0	0	0	0	0	false	false	false	0	0	0	0	0	3	X	0	false	X	0	x	3	false	false	false	undefined | Type QRCODE
+JM	61	R2	7903	false	true	right	true	0	0	0	0	0	0	false	false	false	0	0	0	0	0	2	GROUND	0	false	DOCK ENGAGE	3	2	1	false	false	false	Arm broke, but driver did a good job docking | Type QRCODE
+JM	7.1	R2	4150	false	true	right	true	1	0	0	0	0	0	false	false	false	0	3	0	0	0	0	GROUND	1	false	DOCK	2	1	1	false	false	false	Not a lot of moving, but most of the time it accurately placed cones. | Type QRCODE
