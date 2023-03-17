@@ -46,7 +46,13 @@ def main():
             if barcode_data not in data_submitted:
                 data_submitted.append(barcode_data)
                 with open(config["output_file"], "a") as output_file:
-                    output_file.write(barcode_data + "\n")
+                    for char in range(0, len(string)):
+                        try:
+                            output_file.write(string[char])
+                        except:
+                            output_file.write("'")
+
+                    output_file.write("\n")
                 print("QR:" + barcode_data)
                 print("SAVED! ( ͡° ͜ʖ ͡°)")
 
