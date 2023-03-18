@@ -1,4 +1,5 @@
 # the .tsv file to write to
 output_file = "scouting.tsv"
 database_file = "scouting.db"
+image_dir = "images"
 camera_id = 0
